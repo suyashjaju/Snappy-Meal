@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:16:1-51:12
+MERGED from [org.tensorflow:tensorflow-android:1.10.0-rc1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.10.0-rc1.aar/092272c2a26bbe9a198505163cf4cb61/AndroidManifest.xml:2:1-8:12
+MERGED from [com.nispok:snackbar:2.11.0] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha1.aar/8c0d50212bd2d396af3c14013787b328/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/43b0876d9a82a169038156b294f28d6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3b15e12d36509045ad4ff574f8c14197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c8d49e2264cbce2fbd289181630c52c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1304cfda134da0fa8034a8c6275f9eca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/609192231eb891bfd6e9497ab6963a26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec43106707e684c38d86b53af9cdd66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/8f5bfa981298887086e24ddab3fe5585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/aa137c52a47aaf9d1b74a6276fe069c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d4ba0207c12295570412f8956dbefd37/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:17:5-34
+	xmlns:android
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:19:5-21:41
+MERGED from [com.nispok:snackbar:2.11.0] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/AndroidManifest.xml:6:5-8:41
+MERGED from [com.nispok:snackbar:2.11.0] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha1.aar/8c0d50212bd2d396af3c14013787b328/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha1.aar/8c0d50212bd2d396af3c14013787b328/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/43b0876d9a82a169038156b294f28d6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/43b0876d9a82a169038156b294f28d6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3b15e12d36509045ad4ff574f8c14197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3b15e12d36509045ad4ff574f8c14197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c8d49e2264cbce2fbd289181630c52c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/c8d49e2264cbce2fbd289181630c52c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1304cfda134da0fa8034a8c6275f9eca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1304cfda134da0fa8034a8c6275f9eca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/609192231eb891bfd6e9497ab6963a26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/609192231eb891bfd6e9497ab6963a26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec43106707e684c38d86b53af9cdd66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec43106707e684c38d86b53af9cdd66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/8f5bfa981298887086e24ddab3fe5585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/8f5bfa981298887086e24ddab3fe5585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/aa137c52a47aaf9d1b74a6276fe069c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/aa137c52a47aaf9d1b74a6276fe069c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d4ba0207c12295570412f8956dbefd37/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d4ba0207c12295570412f8956dbefd37/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:21:9-38
+	android:minSdkVersion
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:20:9-35
+uses-permission#android.permission.CAMERA
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:26:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:29:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:30:22-77
+application
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:32:5-49:19
+MERGED from [org.tensorflow:tensorflow-android:1.10.0-rc1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.10.0-rc1.aar/092272c2a26bbe9a198505163cf4cb61/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.10.0-rc1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.10.0-rc1.aar/092272c2a26bbe9a198505163cf4cb61/AndroidManifest.xml:5:5-6:19
+MERGED from [com.nispok:snackbar:2.11.0] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/AndroidManifest.xml:10:5-20
+MERGED from [com.nispok:snackbar:2.11.0] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha1.aar/8c0d50212bd2d396af3c14013787b328/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha1] /Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha1.aar/8c0d50212bd2d396af3c14013787b328/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:36:9-41
+	android:debuggable
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:34:9-34
+	android:icon
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:35:9-45
+	android:allowBackup
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:37:9-47
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:38:9-47:20
+	android:screenOrientation
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:40:13-65
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:39:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:45:27-74
+activity#org.tensorflow.demo.Food
+ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:48:9-51
+	android:name
+		ADDED from /Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/AndroidManifest.xml:48:19-39

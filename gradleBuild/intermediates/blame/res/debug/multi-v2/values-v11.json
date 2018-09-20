@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "7,19,11",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "210,763,340",
+                        "endLines": "9,21,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "336,927,759"
+                    },
+                    "to": {
+                        "startLines": "3,84,87",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,5816,5985",
+                        "endLines": "5,86,93",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "227,5980,6404"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "162",
+                        "endColumns": "45",
+                        "endOffsets": "203"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/res/values-v11/template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "663",
+                        "endColumns": "65",
+                        "endOffsets": "724"
+                    },
+                    "to": {
+                        "startLines": "206",
+                        "startColumns": "4",
+                        "startOffsets": "14847",
+                        "endColumns": "64",
+                        "endOffsets": "14907"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/43b0876d9a82a169038156b294f28d6d/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2940,3189,3290,3542,3797,3900,4153,4561,4981,5403,5510,5639,5710,5793,9818,13986",
+                        "endLines": "7,13,19,25,31,37,38,42,46,47,51,55,56,60,65,70,75,77,79,80,81,135,190,191",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2935,3184,3285,3537,3792,3895,4148,4556,4976,5398,5505,5634,5705,5788,9813,13981,14072"
+                    },
+                    "to": {
+                        "startLines": "6,12,18,24,30,36,42,43,47,51,52,56,60,61,65,70,75,80,82,94,95,96,150,205",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "232,651,1076,1504,1930,2357,2782,2871,3117,3366,3467,3719,3974,4077,4330,4738,5158,5580,5687,6409,6480,6563,10588,14756",
+                        "endLines": "11,17,23,29,35,41,42,46,50,51,55,59,60,64,69,74,79,81,83,94,95,149,204,205",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "646,1071,1499,1925,2352,2777,2866,3112,3361,3462,3714,3969,4072,4325,4733,5153,5575,5682,5811,6475,6558,10583,14751,14842"
+                    }
+                }
+            ]
+        }
+    ]
+}

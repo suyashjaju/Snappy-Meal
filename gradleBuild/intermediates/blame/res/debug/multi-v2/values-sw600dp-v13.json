@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/43b0876d9a82a169038156b294f28d6d/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "98,167,236,306,380,456,515,586",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "162,231,301,375,451,510,581,649"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "11,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "654,865",
+                        "endColumns": "67,67",
+                        "endOffsets": "717,928"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/.gradle/caches/transforms-1/files-1.1/snackbar-2.11.0.aar/139224855d87bba5d2998d6d3cabf950/res/values-sw600dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "166,321,372,418",
+                        "endColumns": "42,50,45,45",
+                        "endOffsets": "204,367,413,459"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,722,773,819",
+                        "endColumns": "42,50,45,45",
+                        "endOffsets": "93,768,814,860"
+                    }
+                },
+                {
+                    "source": "/Users/suyashjaju/Desktop/tensorflow-for-poets-2/android/tfmobile/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1173"
+                    }
+                }
+            ]
+        }
+    ]
+}
